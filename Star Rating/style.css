@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.star-container{
+font-size: 50px;
+}
+
+.star{
+    cursor: pointer;
+    color:beige;
+    padding: 5px;
+}
+
+body{
+    background-color: rgb(125, 186, 216);
+}
+
+.star-filled{
+    color: gold;
+}
